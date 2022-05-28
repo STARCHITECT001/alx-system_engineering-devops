@@ -1,1 +1,1 @@
-a script that changes vincent and the group owner to staff
+a script that changes the owner and the groupowner of hello to vincent and staff respectively
