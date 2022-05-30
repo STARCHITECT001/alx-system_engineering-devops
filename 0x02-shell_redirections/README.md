@@ -1,1 +1,1 @@
-a script that duplicate the last line
+a script that deletes javascript files
